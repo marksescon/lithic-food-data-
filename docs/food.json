@@ -78,5 +78,13 @@
     "protein": 1.0,
     "fat": 12.0,
     "carbs": 1.0
+  },
+  {
+    "food": "Beef back ribs",
+    "servingSize": "3 oz",
+    "totalCalories": 271.0,
+    "protein": 21.7,
+    "fat": 20.0,
+    "carbs": 0.0
   }
 ]
