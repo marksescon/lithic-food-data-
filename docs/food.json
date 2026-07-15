@@ -1,0 +1,82 @@
+[
+  {
+    "food": "whiskey",
+    "servingSize": "1.5 oz",
+    "totalCalories": 97.0,
+    "protein": 0.0,
+    "fat": 0.0,
+    "carbs": 0.0
+  },
+  {
+    "food": "egg",
+    "servingSize": "1 egg",
+    "totalCalories": 70.0,
+    "protein": 6.0,
+    "fat": 5.0,
+    "carbs": 0.0
+  },
+  {
+    "food": "butter",
+    "servingSize": "14 grams",
+    "totalCalories": 100.0,
+    "protein": 0.0,
+    "fat": 11.0,
+    "carbs": 0.0
+  },
+  {
+    "food": "coconut oil",
+    "servingSize": "10 grams",
+    "totalCalories": 87.0,
+    "protein": 0.0,
+    "fat": 9.9,
+    "carbs": 0.0
+  },
+  {
+    "food": "chicken thigh",
+    "servingSize": "100 grams",
+    "totalCalories": 210.0,
+    "protein": 25.0,
+    "fat": 11.0,
+    "carbs": 0.0
+  },
+  {
+    "food": "bel gioioso fresh mozzarella snacking cheese",
+    "servingSize": "1 oz",
+    "totalCalories": 70.0,
+    "protein": 5.0,
+    "fat": 5.0,
+    "carbs": 0.0
+  },
+  {
+    "food": "Safe catch wild ahi yellowfin tuna",
+    "servingSize": "3 oz",
+    "totalCalories": 110.0,
+    "protein": 26.0,
+    "fat": 0.5,
+    "carbs": 0.0
+  },
+  {
+    "food": "Chosen foods",
+    "servingSize": "14g",
+    "totalCalories": 110.0,
+    "protein": 0.0,
+    "fat": 11.0,
+    "carbs": 0.0
+  },
+  {
+    "food": "Costco chili lime shrimp",
+    "servingSize": "4 oz",
+    "totalCalories": 112.0,
+    "protein": 24.0,
+    "fat": 1.0,
+    "carbs": 3.0
+  },
+  {
+    "food": "Thai kitchen organic coconut milk",
+    "servingSize": "1/3 cup",
+    "totalCalories": 120.0,
+    "protein": 1.0,
+    "fat": 12.0,
+    "carbs": 1.0
+  }
+]
