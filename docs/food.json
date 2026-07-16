@@ -86,5 +86,13 @@
     "protein": 21.7,
     "fat": 20.0,
     "carbs": 0.0
+  },
+  {
+    "food": "Wild planet albacore, wild tuna",
+    "servingSize": "1 can",
+    "totalCalories": 180.0,
+    "protein": 33.0,
+    "fat": 5.0,
+    "carbs": 0.0
   }
 ]
