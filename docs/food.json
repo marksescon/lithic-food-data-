@@ -94,5 +94,13 @@
     "protein": 33.0,
     "fat": 5.0,
     "carbs": 0.0
+  },
+  {
+    "food": "kirkalnd organic broccoli florets",
+    "servingSize": "85g",
+    "totalCalories": 25.0,
+    "protein": 3.0,
+    "fat": 0.0,
+    "carbs": 2.0
   }
 ]
