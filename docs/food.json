@@ -56,7 +56,7 @@
     "carbs": 0.0
   },
   {
-    "food": "Chosen foods",
+    "food": "Chosen foods mayo",
     "servingSize": "14g",
     "totalCalories": 110.0,
     "protein": 0.0,
@@ -102,5 +102,13 @@
     "protein": 3.0,
     "fat": 0.0,
     "carbs": 2.0
+  },
+  {
+    "food": "Hannah tzatziki",
+    "servingSize": "28g",
+    "totalCalories": 50.0,
+    "protein": 1.0,
+    "fat": 4.0,
+    "carbs": 1.0
   }
 ]
