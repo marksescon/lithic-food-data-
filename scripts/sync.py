@@ -2,15 +2,23 @@ import csv
 import json
 import os
 import sys
+import urllib.error
 import urllib.request
 
-SHEET_CSV_URL = os.environ["SHEET_CSV_URL"]
+SHEET_CSV_URL = os.environ["SHEET_CSV_URL"].strip()
 OUTPUT_PATH = "docs/food.json"
+REQUEST_TIMEOUT = 30
 
 
 def fetch_csv(url: str) -> str:
-    with urllib.request.urlopen(url) as response:
-        return response.read().decode("utf-8")
+    request = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    try:
+        with urllib.request.urlopen(request, timeout=REQUEST_TIMEOUT) as response:
+            return response.read().decode("utf-8")
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", errors="replace")
+        print(f"HTTP {e.code} fetching sheet CSV. Response body:\n{body}", file=sys.stderr)
+        raise
 
 
 def parse_rows(csv_text: str) -> list[dict]:

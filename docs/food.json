@@ -110,5 +110,37 @@
     "protein": 1.0,
     "fat": 4.0,
     "carbs": 1.0
+  },
+  {
+    "food": "Costco 93/7 ground beef",
+    "servingSize": "4 oz",
+    "totalCalories": 170.0,
+    "protein": 23.0,
+    "fat": 8.0,
+    "carbs": 0.0
+  },
+  {
+    "food": "Costco's Kirkland Signature 93% lean / 7% fat ground beef",
+    "servingSize": "4 oz",
+    "totalCalories": 170.0,
+    "protein": 23.0,
+    "fat": 8.0,
+    "carbs": 0.0
+  },
+  {
+    "food": "Archer original beef stick mini",
+    "servingSize": "1 stick",
+    "totalCalories": 45.0,
+    "protein": 4.0,
+    "fat": 3.0,
+    "carbs": 0.0
+  },
+  {
+    "food": "Simply nature roasted seafood snacks",
+    "servingSize": "1 pack",
+    "totalCalories": 30.0,
+    "protein": 1.0,
+    "fat": 2.5,
+    "carbs": 1.0
   }
 ]
