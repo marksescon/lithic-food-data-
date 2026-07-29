@@ -142,5 +142,21 @@
     "protein": 1.0,
     "fat": 2.5,
     "carbs": 1.0
+  },
+  {
+    "food": "Baba foods garlic fluffy dip",
+    "servingSize": "20g",
+    "totalCalories": 60.0,
+    "protein": 0.0,
+    "fat": 3.5,
+    "carbs": 0.0
+  },
+  {
+    "food": "Pueblo Lindo queso fresco Mexican style fresh white cheese",
+    "servingSize": "1 oz",
+    "totalCalories": 90.0,
+    "protein": 6.0,
+    "fat": 7.0,
+    "carbs": 1.0
   }
 ]
