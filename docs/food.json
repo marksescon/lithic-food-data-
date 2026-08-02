@@ -158,5 +158,29 @@
     "protein": 6.0,
     "fat": 7.0,
     "carbs": 1.0
+  },
+  {
+    "food": "Costco Pre-Seasoned / Rotisserie Back Ribs (Cooked)",
+    "servingSize": "1/4 tray",
+    "totalCalories": 360.0,
+    "protein": 26.0,
+    "fat": 25.0,
+    "carbs": 0.0
+  },
+  {
+    "food": "Costco Kirkland Signature Cilantro Lime Shrimp",
+    "servingSize": "4 oz.",
+    "totalCalories": 112.0,
+    "protein": 27.0,
+    "fat": 0.3,
+    "carbs": 0.2
+  },
+  {
+    "food": "Sweet Baby Ray's Sweet 'n Spicy Barbecue Sauce",
+    "servingSize": "2 tbsp",
+    "totalCalories": 70.0,
+    "protein": 0.0,
+    "fat": 0.0,
+    "carbs": 17.0
   }
 ]
