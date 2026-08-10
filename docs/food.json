@@ -182,5 +182,13 @@
     "protein": 0.0,
     "fat": 0.0,
     "carbs": 17.0
+  },
+  {
+    "food": "Trader Joe\u2019s Korean Style Beef Short Ribs",
+    "servingSize": "110g",
+    "totalCalories": 320.0,
+    "protein": 16.0,
+    "fat": 27.0,
+    "carbs": 2.0
   }
 ]
