@@ -190,5 +190,13 @@
     "protein": 16.0,
     "fat": 27.0,
     "carbs": 2.0
+  },
+  {
+    "food": "Vons Rotisserie Chickem",
+    "servingSize": "3 oz.",
+    "totalCalories": 250.0,
+    "protein": 19.0,
+    "fat": 19.0,
+    "carbs": 0.0
   }
 ]
