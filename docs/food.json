@@ -198,5 +198,21 @@
     "protein": 19.0,
     "fat": 19.0,
     "carbs": 0.0
+  },
+  {
+    "food": "Filet mignon",
+    "servingSize": "5.4 oz",
+    "totalCalories": 278.0,
+    "protein": 28.0,
+    "fat": 18.0,
+    "carbs": 0.0
+  },
+  {
+    "food": "Trader Joe\u2019s Calamari Pieces in Olive Oil",
+    "servingSize": "1 can",
+    "totalCalories": 100.0,
+    "protein": 17.0,
+    "fat": 4.5,
+    "carbs": 0.0
   }
 ]
