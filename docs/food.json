@@ -214,5 +214,21 @@
     "protein": 17.0,
     "fat": 4.5,
     "carbs": 0.0
+  },
+  {
+    "food": "Lucerne Shredded Mexican Cheese",
+    "servingSize": "28g",
+    "totalCalories": 110.0,
+    "protein": 6.0,
+    "fat": 8.0,
+    "carbs": 1.0
+  },
+  {
+    "food": "Trader Joe's sells Crown Prince Natural Smoked Oysters",
+    "servingSize": "1 can",
+    "totalCalories": 150.0,
+    "protein": 11.0,
+    "fat": 10.0,
+    "carbs": 4.0
   }
 ]
