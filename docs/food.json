@@ -230,5 +230,21 @@
     "protein": 11.0,
     "fat": 10.0,
     "carbs": 4.0
+  },
+  {
+    "food": "Trader Joe's Buffalo Sauce with Avocado Oil",
+    "servingSize": "16g",
+    "totalCalories": 25.0,
+    "protein": 0.0,
+    "fat": 2.0,
+    "carbs": 0.0
+  },
+  {
+    "food": "Trader Joe\u2019s Nutritional Yeast",
+    "servingSize": "5g",
+    "totalCalories": 20.0,
+    "protein": 3.0,
+    "fat": 0.0,
+    "carbs": 1.0
   }
 ]
