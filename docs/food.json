@@ -246,5 +246,21 @@
     "protein": 3.0,
     "fat": 0.0,
     "carbs": 1.0
+  },
+  {
+    "food": "Redbloom Gut Healthy Chili Crisp",
+    "servingSize": "5g",
+    "totalCalories": 35.0,
+    "protein": 0.0,
+    "fat": 3.0,
+    "carbs": 2.0
+  },
+  {
+    "food": "Olive Oil",
+    "servingSize": "14g",
+    "totalCalories": 120.0,
+    "protein": 0.0,
+    "fat": 14.0,
+    "carbs": 0.0
   }
 ]
